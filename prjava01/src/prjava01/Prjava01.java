@@ -5,7 +5,7 @@
 package prjava01;
 /**
  *
- * @author XYZ1718daw2 (a on XYZ és el teu nom d'usuari Github)
+ * @author alpesodaww2
  */
 import java.io.*;
 public class Prjava01 {
